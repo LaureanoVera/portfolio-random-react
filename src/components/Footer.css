@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: .2rem 1rem;
+  box-shadow: 0 0 4px #730220;
+}
+
+.footer a {
+  text-decoration: none;
+}
