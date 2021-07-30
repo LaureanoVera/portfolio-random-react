@@ -1,8 +1,6 @@
 import React from 'react'
 import './Header.css'
 import HomeIcon from '@material-ui/icons/Home';
-import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom'
-
 
 const Header = () => {
   return (
